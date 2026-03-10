@@ -80495,7 +80495,7 @@ A.a5y.prototype={
 a0t(a){$.amv().m(0,this,a)}}
 A.IP.prototype={
 O(a){var s=null
-return new A.xr(B.a_U,"Flutter Demo",A.ta(B.zc,B.a0,B.AU,A.aqI(B.a0,s,s,B.tc,B.dZ),B.m,s),s)}}
+return new A.xr(B.a_U,"PokeDex",A.ta(B.zc,B.a0,B.AU,A.aqI(B.a0,s,s,B.tc,B.dZ),B.m,s),s)}}
 A.ka.prototype={
 k5(){return A.al(["id",this.a,"name",this.b,"imageUrl",this.c],t.N,t.z)}}
 A.y9.prototype={
